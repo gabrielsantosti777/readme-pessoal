@@ -23,4 +23,4 @@
 
 ---
 
-> "A tecnologia move o mundo."🌍
+> "A tecnologia move o mundo.🌍"
