@@ -1,4 +1,4 @@
-Console.WriteLine ("**Gabriel dos Santos 👨🏽‍💻**");
+## Gabriel dos Santos 👨🏽‍💻
 
 📚 Cursando **Sistemas de informação** na **FAM**.
 
@@ -21,6 +21,7 @@ Console.WriteLine ("**Gabriel dos Santos 👨🏽‍💻**");
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dos-santos-909386292/)
 
 📫 **E-mail:** [gabriel.t.santos06@gmail.com](mailto:gabriel.t.santos06@gmail.com)
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 ---
 
 > "A tecnologia move o mundo."
